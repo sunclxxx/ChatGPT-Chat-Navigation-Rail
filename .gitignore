@@ -1,0 +1,6 @@
+*.exe
+*.log
+*.signal
+automatic.disabled
+manual.request
+wait-current.once
